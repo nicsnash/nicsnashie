@@ -1,0 +1,11 @@
+C:\Users\PC\Desktop\ShapeCalculatorr\ShapeCalculatorr\bin\Debug\ShapeCalculatorr.exe.config
+C:\Users\PC\Desktop\ShapeCalculatorr\ShapeCalculatorr\bin\Debug\ShapeCalculatorr.exe
+C:\Users\PC\Desktop\ShapeCalculatorr\ShapeCalculatorr\bin\Debug\ShapeCalculatorr.pdb
+C:\Users\PC\Desktop\ShapeCalculatorr\ShapeCalculatorr\obj\Debug\ShapeCalculatorr.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\ShapeCalculatorr\ShapeCalculatorr\obj\Debug\ShapeCalculatorr.Form1.resources
+C:\Users\PC\Desktop\ShapeCalculatorr\ShapeCalculatorr\obj\Debug\ShapeCalculatorr.Properties.Resources.resources
+C:\Users\PC\Desktop\ShapeCalculatorr\ShapeCalculatorr\obj\Debug\ShapeCalculatorr.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\ShapeCalculatorr\ShapeCalculatorr\obj\Debug\ShapeCalculatorr.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\ShapeCalculatorr\ShapeCalculatorr\obj\Debug\ShapeCalculatorr.exe
+C:\Users\PC\Desktop\ShapeCalculatorr\ShapeCalculatorr\obj\Debug\ShapeCalculatorr.pdb
+C:\Users\PC\Desktop\ShapeCalculatorr\ShapeCalculatorr\obj\Debug\ShapeCalculatorr.Notes.resources
